@@ -1,0 +1,15 @@
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\unit-tests.deps.json
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\unit-tests.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\ref\unit-tests.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\unit-tests.pdb
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\program.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\bin\Debug\net5.0\program.pdb
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.csproj.AssemblyReference.cache
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.AssemblyInfoInputs.cache
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.AssemblyInfo.cs
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.csproj.CoreCompileInputs.cache
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.csproj.CopyComplete
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\ref\unit-tests.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\unit-tests\obj\Debug\net5.0\unit-tests.pdb
