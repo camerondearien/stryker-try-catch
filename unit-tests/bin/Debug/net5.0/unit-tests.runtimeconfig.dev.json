@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\camedear\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\camedear\\.nuget\\packages"
+    ]
+  }
+}

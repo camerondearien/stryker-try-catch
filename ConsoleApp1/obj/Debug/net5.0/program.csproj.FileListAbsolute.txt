@@ -1,10 +1,11 @@
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\program.deps.json
-C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\program.dll
-C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\ref\program.dll
-C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\program.pdb
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.AssemblyInfoInputs.cache
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.AssemblyInfo.cs
+C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\program.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\ref\program.dll
+C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\bin\Debug\net5.0\program.pdb
+C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.csproj.AssemblyReference.cache
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.csproj.CoreCompileInputs.cache
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\program.dll
 C:\Users\camedear\source\repos\others\stryker-try-catch\ConsoleApp1\obj\Debug\net5.0\ref\program.dll
